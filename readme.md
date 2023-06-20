@@ -1,5 +1,8 @@
+<img src="https://github.com/Alti-2/atlas2-communications/blob/main/Alti2splash.png"
+     alt="Alti-2 splash"
+     style="width: 400px;" />
 # Atlas 2 Device Communication
-### **WARNING**! Altering your device software may cause unreliable operation, which may lead to severe injury or death. Use of this information is at your own risk.
+### **WARNING**! Altering your device software may cause unreliable operation and lead to severe injury or death. Use of this information is at your own risk.
 
 ## Configuration
 Establish a serial connection to the device with the following settings
